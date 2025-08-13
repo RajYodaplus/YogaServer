@@ -1,0 +1,19 @@
+{
+  "name": "yogaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/load-files": "^7.0.1",
+    "@graphql-tools/merge": "^9.1.1",
+    "dotenv": "^17.2.1",
+    "graphql": "^16.11.0",
+    "graphql-yoga": "^5.15.1"
+  }
+}
